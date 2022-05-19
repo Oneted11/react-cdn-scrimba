@@ -14,3 +14,14 @@ ReactDOM.render(
   </article>,
   document.getElementById("root")
 );
+
+// //create h1
+// let myhead = document.createElement("h1");
+// //add text
+// myhead.textContent = "Hello, React!";
+// //add class
+// myhead.classList.add("header");
+// //select root
+// let root = document.getElementById("root");
+// //append to root div
+// root.appendChild(myhead);
