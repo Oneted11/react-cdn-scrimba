@@ -33,7 +33,7 @@ useful for when you dont want a toolchain and just want to add components real q
 
 ## index.js
 
-```
+```jsx
 ReactDOM.render(
   <article>
     <h1>HEllo there </h1>
